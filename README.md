@@ -11,6 +11,7 @@
   + [소수 찾기](https://github.com/Tublanx/TIL/blob/4f6e0ebd32eb0408f0de4bd3f6bd5d94281e1458/Algorithm/Programmers/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.md)
   + [수박수박수박수박수박수?](https://github.com/Tublanx/TIL/blob/78abeea4ba9ec5b37ce77e8b88579a172d43b1d5/Algorithm/Programmers/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.md)
   + [하샤드 수](https://github.com/Tublanx/TIL/blob/653c173e666dd0d3b92b788871ef78205664fef5/Algorithm/Programmers/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98.md)
+  + [평균 구하기](https://github.com/Tublanx/TIL/blob/9537961ad146f0c94830a4f44c8d024a69902880/Algorithm/Programmers/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)
 
 ## Spring
 + Spring Boot
