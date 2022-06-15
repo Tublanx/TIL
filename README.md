@@ -16,6 +16,7 @@
   + [문자열 내 p와 y의 개수](https://github.com/Tublanx/TIL/blob/b40d38dd107578acdf3db612e9823826c4247bfa/Algorithm/Programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.md)
   + [짝수와 홀수](https://github.com/Tublanx/TIL/blob/97ce58c2cec8a547adc21456e89a2442769df566/Algorithm/Programmers/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98.md)
   + [약수의 합](https://github.com/Tublanx/TIL/blob/7b3fe6a96a9f22685f84a91305defe774528b9ef/Algorithm/Programmers/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.md)
+  + [자릿수 더하기](https://github.com/Tublanx/TIL/blob/56349f87900c64f734435acec22a5726788ca94d/Algorithm/Programmers/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0.md)
 
 ## Spring
 + Spring Boot
